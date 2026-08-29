@@ -3,7 +3,7 @@
     "id": "cn.seedsoft.tmtclock",
     "restype": "quick_app",
     "name": "番茄钟",
-    "description": "为 Xiaomi S 系列手表、红米数字系列手表补全缺失的番茄钟体验。\n基于 WTFPL 协议开源。",
+    "description": "为 Xiaomi S 系列手表、红米数字系列手表补全缺失的番茄钟体验。\n基于 WTFPL 协议开源。\n1.0.1 更新日志：修复了息屏后计时异常的问题。",
     "preview": [
       "media/1.png",
       "media/2.png",
@@ -28,37 +28,37 @@
     }
   ],
   "downloads": {
-    "xmws5": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.seedsoft.tmtclock.release.1.0.0.rpk"
-    },
-    "xmws4": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.seedsoft.tmtclock.release.1.0.0.rpk"
-    },
-    "xmws441": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.seedsoft.tmtclock.release.1.0.0.rpk"
-    },
-    "xmws4xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.seedsoft.tmtclock.release.1.0.0.rpk"
-    },
-    "xmws3": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.seedsoft.tmtclock.release.1.0.0.rpk"
+    "xmrw5": {
+      "version": "1.0.1",
+      "file_name": "downloads/cn.seedsoft.tmtclock.release.1.0.1.rpk"
     },
     "xmrw5xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.seedsoft.tmtclock.release.1.0.0.rpk"
-    },
-    "xmrw5": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.seedsoft.tmtclock.release.1.0.0.rpk"
+      "version": "1.0.1",
+      "file_name": "downloads/cn.seedsoft.tmtclock.release.1.0.1.rpk"
     },
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/cn.seedsoft.tmtclock.release.1.0.0.rpk"
+      "version": "1.0.1",
+      "file_name": "downloads/cn.seedsoft.tmtclock.release.1.0.1.rpk"
+    },
+    "xmws441": {
+      "version": "1.0.1",
+      "file_name": "downloads/cn.seedsoft.tmtclock.release.1.0.1.rpk"
+    },
+    "xmws4xring": {
+      "version": "1.0.1",
+      "file_name": "downloads/cn.seedsoft.tmtclock.release.1.0.1.rpk"
+    },
+    "xmws4": {
+      "version": "1.0.1",
+      "file_name": "downloads/cn.seedsoft.tmtclock.release.1.0.1.rpk"
+    },
+    "xmws5": {
+      "version": "1.0.1",
+      "file_name": "downloads/cn.seedsoft.tmtclock.release.1.0.1.rpk"
+    },
+    "xmws3": {
+      "version": "1.0.1",
+      "file_name": "downloads/cn.seedsoft.tmtclock.release.1.0.1.rpk"
     }
   },
   "ext": {}
