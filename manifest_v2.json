@@ -3,7 +3,7 @@
     "id": "cn.seedsoft.tmtclock",
     "restype": "quick_app",
     "name": "番茄钟",
-    "description": "为 Xiaomi S 系列手表、红米数字系列手表补全缺失的番茄钟体验。\n基于 WTFPL 协议开源。\n1.0.2 更新日志：新增⌈屏幕常亮⌋功能。设置入口：计时页上滑两次。\n\n以下是历史版本更新日志。\n1.0.1 更新日志：修复了息屏后计时异常的问题。",
+    "description": "为 Xiaomi S 系列手表、红米数字系列手表补全缺失的番茄钟体验。\n基于 WTFPL 协议开源。\n1.0.2 更新日志：新增⌈屏幕常亮⌋功能，入口：“专注中”页面上滑两次。\n\n以下为历史版本更新日志。\n1.0.1 更新日志：修复了息屏后计时异常的问题。",
     "preview": [
       "media/1.png",
       "media/2.png",
@@ -11,8 +11,8 @@
       "media/4.png",
       "media/5.png"
     ],
-    "icon": "media/logo.png",
-    "cover": "media/cover.png",
+    "icon": "media/193e095c-d954-4006-b424-4e4b5b94de38.png",
+    "cover": "media/0b339e30-9bc2-4946-b884-9ddb188ad80f.png",
     "author": [
       {
         "name": "riseforever2026",
